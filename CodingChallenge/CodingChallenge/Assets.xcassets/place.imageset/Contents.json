@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "futurama_PNG37-3549992209.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "futurama_PNG37-3549992209 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
